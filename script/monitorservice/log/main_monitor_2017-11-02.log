@@ -1,0 +1,2469 @@
+[32m Starting checking,current time 2017-11-02 10:26:48.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:31:38.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:34:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully!
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[32m Starting checking,current time 2017-11-02 10:35:01.....[0m
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully!
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[32m Starting checking,current time 2017-11-02 10:36:01.....[0m
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:37:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:38:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:39:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:40:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[32m Starting checking,current time 2017-11-02 10:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+Service detection completed! present time 2017-11-02 10:45:01.
+[32m Starting checking,current time 2017-11-02 10:50:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check!
+[35mService detection completed! present time 2017-11-02 10:50:01.[0m
+[32m Starting checking,current time 2017-11-02 10:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[37m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 10:55:01.[0m
+
+
+
+[32mStarting checking,current time 2017-11-02 11:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:30:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:30:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+
+
+
+[32mStarting checking,current time 2017-11-02 11:35:17.....[0m
+[32m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+[35mService detection completed! present time 2017-11-02 11:35:01.[0m
+
+
+
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+[32m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123  is OK[0m
+[35mService detection completed! present time 2017-11-02 11:35:17.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 11:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 11:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:45:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:45:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 12:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 12:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:25:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:25:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 13:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 13:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:25:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:25:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 14:55:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 14:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:50:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:50:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 15:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 15:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:00:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:00:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:05:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:05:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 16:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 16:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:00:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:05:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:06:59.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:06:59.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:08:47.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:08:47.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:10:01.....[0m
+
+
+
+[32mStarting checking,current time 2017-11-02 17:10:12.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:10:01.[0m
+
+
+
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:10:12.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:20:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:30:01.....[0m
+URL anomaly detected
+[31m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+NOT Tomcat PID
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080 is  unavailability or exception,,The application has been restarted successfully![0m
+URL anomaly detected
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailable or exception, Please detecting or restarting applications![0m
+[34m++++++++++++++++++[1m
+Shutdown Tomcat                          [OK]
+Clear Cache
+Change Owner Permission:root
+Start Tomcat                             [OK]
+Daemon User:root
+[34m++++++++++++++++++[0m
+[31m192.168.1.123:9123 ÏîÄ¿:testTomcat002 URL=http://192.168.1.123:9123 is unavailability or exception,The application has been restarted failed,Please check![0m
+[35mService detection completed! present time 2017-11-02 17:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 17:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:40:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 17:40:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 17:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:50:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 17:50:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 17:55:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 17:55:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:30:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:30:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:45:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:45:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 18:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 18:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 19:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 19:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:30:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:30:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:40:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:40:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 20:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 20:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:00:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:00:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:10:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:10:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:35:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:35:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 21:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 21:55:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:05:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:05:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:20:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:20:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:50:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:50:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 22:55:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 22:55:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:00:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:00:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:05:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:05:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:10:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:10:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:15:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:15:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:20:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:20:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:25:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:25:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:30:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:30:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:35:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:35:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:40:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:40:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:45:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:45:01.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:50:02.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:50:02.[0m
+
+
+
+
+
+
+[32mStarting checking,current time 2017-11-02 23:55:01.....[0m
+[32m192.168.1.123:8080 ÏîÄ¿:testTomcat001 URL=http://192.168.1.123:8080  is OK[0m
+[35mService detection completed! present time 2017-11-02 23:55:01.[0m
+
+
+
