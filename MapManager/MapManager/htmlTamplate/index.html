@@ -1,0 +1,242 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=gbk" keyword="MapManagerLogin" />
+  <link rel="shortcut icon" type="image/x-icon" href="/style/IMAGES/console.png" />
+  <link rel="stylesheet" type="text/css" media="all" href="/style/CSS/index.css" />
+  <script type="text/javascript" src="/style/JS/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/style/JS/index.js"></script>
+  {% if SYSTEM %}
+  <script type="text/javascript" src="/style/JS/indexSYSTEM.js"></script>
+  {% endif %}
+  <title>{{ title }}</title>
+</head>
+
+<body>
+  <div class="frameDiv">
+    <div id="title">
+      <span style="{{ style }}">{{ title }}</span>
+    </div>
+    <div class="navigation">
+        <span class="loginText">
+      {% if user %}
+          在线用户：{{ user }}
+        </span>
+        <span class="logOutText" onclick="window.location = '/logout';">
+          退出登录
+        </span>
+    </div>
+      {% else %}
+        登录
+        </span>
+    </div>
+        <form id="loginPage" onmouseleave="$(this).slideUp(1000);"
+              style="border: 1px solid #000; z-index: 20; position: relative;
+               width: 300px; height: 150px; background-color: #F7F7F7; opacity: 0.9;
+               float: right; margin-right: 40px; display: none; text-indent: 5px;">
+          <p>账号：<input type="text" name="authUser" style="width: 200px;" max="20"></p>
+          <p>密码：<input type="password" name="authPass" style="width: 200px;" max="20"></p>
+          <div style="margin-left: 3px;">
+            <input type="submit" id="loginButton"
+                   onclick="loginSubmit(this.parentNode.parentNode, $('#logInfo')); return false;"
+                   value="登录"
+            >
+            <input type="reset" value="重置">
+          </div>
+          <p id="logInfo" name="logInfo" style="font-size: 12px; color: red;"></p>
+        </form>
+
+        <script type="text/javascript" language="JavaScript">
+          $(".loginText").mousemove(
+            function() {
+              $("#loginPage").slideDown(1000);
+            }
+          );
+        </script>
+      {% endif %}
+
+      <div style="width: 95%; margin: 140px auto;">
+        {# if user is SYSTEM and need manager privileges #}
+        {% if SYSTEM %}
+        <input type="button" value="增加映射" onclick="addMap();"
+          style="background-color: white; font-size: 14px;">
+        {% endif %}
+        <input type="button" value="手动刷新" onclick="window.location.reload(true);"
+               style="background-color: white; font-size: 14px;">
+        {% if SYSTEM %}
+        <input type="button" value="配置刷新" style="background-color: white; font-size: 14px;"
+         onclick="refreshConfig(this.parentNode.childNodes[9]);">
+
+        <input type="button" value="重启IPHelper服务" style="background-color: white; font-size: 14px;"
+         onclick="restartIPHELPER(this.parentNode.childNodes[9]);">
+        <span style="color: red; font-size: 12px;"></span>
+        {% endif %}
+      </div>
+
+      <table id="contentTable" border="1" cellspacing="0">
+        <thead>
+          <tr>
+            <th width="45px">序号</th>
+            <th width="100px">管理名称</th>
+            <th width="120px">主机名/IP</th>
+            <th width="70px">端口</th>
+            <th width="120px">远程主机</th>
+            <th width="70px">远程端口</th>
+            <th width="55px">状态</th>
+            <th width="130px">连接用户</th>
+            <th width="210px">连接密码</th>
+            {% if SYSTEM %}
+            <th width="140px">管理</th>
+            {% endif %}
+          </tr>
+        </thead>
+
+        <tbody>
+          {# traverse all module #}
+          {% if userModule %}
+          {% for _umx in userModule %}
+          <tr>
+            <td>{{ loop.index }}</td>
+            <td changeAll="yes">{{ _umx }}</td>
+            <td ipList="yes">{{ userModule[_umx]["localip"] }}</td>
+            <td changeAll="yes" changeLPort="yes">{{ userModule[_umx]["localport"] }}</td>
+            <td changeAll="yes">{{ userModule[_umx]["remoteip"] }}</td>
+            <td changeAll="yes" changeRPort="yes">{{ userModule[_umx]["remoteport"] }}</td>
+            <td Select="yes">{{ userModule[_umx]["status"] }}</td>
+            <td>{{ userModule[_umx]["connuser"] }}</td>
+            <td>{{ userModule[_umx]["connpass"] }}</td>
+            {% if SYSTEM %}
+            <td name="operate" change="no">
+              <input type="button" onclick="getTbodyElement(this, 'update');" value="修改">
+              <input type="button" onclick="getTbodyElement(this, 'delete');" value="删除">
+            </td>
+            {% endif %}
+          </tr>
+          {% endfor %}
+          {% else %}
+          <tr>
+            <td style="width: 100%; text-align: center;
+                       font-size: 20px; font-weight: bold; color: red;
+                       vertical-align: middle; height: 70px;"
+                colspan="9">
+              你没有任何权限！！！！
+            </td>
+          </tr>
+          {% endif %}
+        </tbody>
+      </table>
+
+      {% if SYSTEM %}
+      <form id="addMap">
+        <span style="font-size: 20px; font-weight: bold;">添加映射</span>
+        <p>管理名称: <input type="text" required="required"></p>
+        <p>跳转机IP:
+          <select style="background: none; width: 200px">
+            {% for _ip in localIpList %}
+              <option>{{ _ip }}</option>
+            {% endfor %}
+          </select>
+        </p>
+        <p>端&emsp;&emsp;口: <input type="number" min="1025" max="65535" required="required"></p>
+        <p>远程主机: <input type="text" required="required"></p>
+        <p>远程端口: <input type="number" min="1" required="required"></p>
+        <p>
+          状&emsp;&emsp;态:
+          <select style="background: none;">
+            <option selected="selected">启用</option>
+            <option>禁用</option>
+          </select>
+        </p>
+        <p>连接用户: <input type="text" value="unknow" onfocus="this.value=''" required="required" ></p>
+        <p>连接密码: <input type="text" value="unknow" onfocus="this.value=''" required="required" ></p>
+        <p>
+          <input type="submit" value="添加"
+           onclick="addMapSubmit(this, document.getElementById('addInfo')); return false;"
+          >
+          <input type="reset" value="重置">
+          <input type="button" value="取消" onclick="$(_mapPage).animate({'height':'0px'}, 1000,
+                                                       function() {
+                                                         $(_mapPage).css('display', 'none');
+                                                       }
+                                                     );
+                 bodyShadowLayer.removeShadowLayer(_bodyShadowLayer);">
+        </p> 
+        <p id="addInfo" style="font-size: 12px; color: red;"></p>
+      </form>
+      {% endif %}
+
+  </div>
+
+  {% if SYSTEM %}
+  <script type="text/javascript" language="JavaScript">
+    $("table#contentTable tbody tr td[changeAll='yes']").dblclick(
+      function() {
+        var _this = $(this);
+        if (this.srcValue == undefined)
+          this.srcValue = this.innerText;
+
+        if (this.getAttribute("changeLPort") == "yes") {
+          type="'number' min='1025' max='65535'";
+        }
+        else if (this.getAttribute("changeRPort") == "yes") {
+          type="'number' min='1' max='65535'"
+        }
+        else {
+          type="'text'"
+        }
+
+        // var inputSize = Math.floor(_this.width() * 0.1);
+        _this.html("<" + "input type=" + type + " style='width: 100%; height: 100%;" + 
+                   " background: none;" + "' value='" + _this.text()  + "'" +
+                   "onblur='this.parentNode.innerText = this.value;'" +
+                   "onkeydown='if (event.keyCode == 13) { this.onblur = undefined; this.parentNode.innerText = this.value;}'>");
+      }
+    );
+
+    $("table#contentTable tbody tr td[ipList='yes']").dblclick(
+      function() {
+        var _this = $(this);
+        if (this.srcValue == undefined)
+          this.srcValue = this.innerText;
+
+        // Get options
+        if (this.innerText != null && this.innerText.replace(/\s+/g, "") != "")
+          var _options = "<option selected='selected'>" + this.innerText + "</option>";
+
+        {% for _ip in localIpList %}
+          if (this.innerText != "{{ _ip }}")
+            _options += "<option>{{ _ip }}</option>";
+        {% endfor %}
+
+       // write to document
+        _this.html("<select style='background: none; border: 0px; width: 100%; height: 100%;'" +
+                   " onblur='this.parentNode.innerText = this.value;'>" +
+                     _options +
+                   "</select>"
+        );
+      }
+    );
+
+    $("table#contentTable tbody tr td[Select='yes']").dblclick(
+      function() {
+        var _this = $(this);
+        if (this.srcValue == undefined)
+          this.srcValue = this.innerText;
+        if ( this.innerText == "启用" ) {
+          var _options = "<option selected='selected'>启用</option>" +
+                         "<option>禁用</option>"
+        }
+        else {
+          var _options = "<option>启用</option>" +
+                         "<option selected='selected'>禁用</option>"
+        }
+        _this.html("<select style='background: none; border: 0px; width: 100%; height: 100%;'" +
+                   " onblur='this.parentNode.innerText = this.value;'>" +
+                     _options +
+                   "</select>");
+      }
+    );
+  </script>
+  {% endif %}
+</body>
+</html>

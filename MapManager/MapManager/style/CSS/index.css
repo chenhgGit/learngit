@@ -1,0 +1,104 @@
+body {
+  background-color: #f3f3f4;
+}
+
+.frameDiv {
+  width: 70%;
+  border: 1px solid #FFF;
+  background-color: white;
+  margin: -3px auto;
+  box-shadow: 0px 0px 2px 2px #FFF;
+}
+
+.navigation {
+  width: 100%;
+  text-align: right;
+  color: #006400;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.loginText {
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.logOutText {
+  width: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.loginText:hover {
+  color: #A1A1A1;
+}
+
+.logOutText:hover {
+  color: #A1A1A1;
+}
+
+#contentTable {
+  border: 1px;
+  width: 95%;
+  margin: -136px auto;
+  font-size: 14px;
+}
+
+#contentTable tr {
+  height: 28px;
+  text-align: center;
+}
+
+#contentTable tbody tr:hover {
+  background-color: #EDEDED;
+}
+
+#contentTable tbody tr td:last-of-type[name=operate]:hover {
+  background-color: white;
+}
+
+#contentTable tbody tr td input[type=button] {
+  background-color: white;
+}
+
+#contentTable tbody tr td input[type=text] {
+  background-color: white;
+  color: #DAA520;
+  border: 0px;
+  font-size: 14px;
+}
+
+#addMap {
+  width: 300px;
+  height: 360px;
+  left: auto;
+  z-index: 101;
+  background: white;
+  padding: 20px 20px;
+  font-size: 14px;
+  display: none;
+  position: fixed;
+  left: 50%;
+  margin-left: -180px;
+  top: 50%;
+  margin-top: -270px;
+  z-index: 101;
+}
+
+#addMap p input[type=text] {
+  width: 200px;
+}
+
+#addMap p input[type=number] {
+  width: 200px;
+}
+
+#addMap p input {
+  background: none;
+}
+
+#title {
+  position: absolute;
+  margin: 30px 50px;
+  z-index: 10;
+}

@@ -1,0 +1,28 @@
+*windows：（服务: IP Helper,必须启动）
+1: 在执行端口转发之前，windows xp系统必须安装IPV6:
+netsh interface ipv6 install
+端口转发：
+添加一个IPV4到IPV4的端口映射
+要求：访问主机192.168.193.1:22 转发到10.10.10.1:22
+netsh interface portproxy add v4tov4 listenaddress=192.168.193.1 listenport=22 connectaddress=10.10.10.1 connectport=22 protocol=tcp
+删除指定监听ip和端口:
+netsh interface portproxy delete v4tov4 listenaddress=192.168.193.1 listenport=22
+查看存在的转发：
+netsh interface portproxy show all
+查看监听端口是否存在：
+netstat –ano | findstr :22        #如果监听成功，表示转发ok。
+
+*Linux:
+DNAT(端口转发):
+要求：将访问主机10.10.10.1:80的所有tcp连接转发到10.10.10.5:8080
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 80 -d 10.10.10.1 -j DNAT --to-destination 10.10.10.5:8080
+  加上-s x.x.x.x选项可以限制将某个源IP的连接进行转发。
+SNAT(重写源地址):
+要求：目标服务器1.1.1.1:80只允许10.10.10.1主机进行访问，现要做到公司机房中的主备机都能够访问(IP伪装)，例如10.1.1.2
+1、 iptables -t nat -A POSTROUTING -p tcp -m tcp -d 1.1.1.1 -s 10.1.1.2 --dport 80 -j SNAT --to-source 10.10.10.1
+  -s x.x.x.x,y.y.y.y  可加上多个源地址（只将-s中的源地址进行伪装）
+2、 在其他主机上创建路由，route add 1.1.1.1 gw 10.10.10.1
+
+
+ga-yunwei hicardDaiLi(9*8
+
